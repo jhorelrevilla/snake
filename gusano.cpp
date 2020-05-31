@@ -127,7 +127,7 @@ int main(int argc, char *argv[]) {
 		s.mostrar();
 		cin>>c;
 		s.moverjugador(c,'j');
-		system("CLS");
+		system("clear");
 	}
 	return 0;
 }
